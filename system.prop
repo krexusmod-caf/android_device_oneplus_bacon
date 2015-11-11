@@ -77,3 +77,5 @@ persist.timed.enable=true
 
 # Wifi
 wifi.interface=wlan0
+# OTA
+ro.product.device=bacon
